@@ -103,6 +103,7 @@ Contributions are welcome! To contribute:
 - Incorporate machine learning for dynamic response evaluation.
 
 ---
+## output link:- https://aesthetic-zuccutto-83b8d6.netlify.app 
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
