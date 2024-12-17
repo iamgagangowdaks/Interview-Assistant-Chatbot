@@ -1,7 +1,3 @@
-Here’s the **README.md** content based on analyzing the structure and functionality of the **Interview Assistant Chatbot** backend code:
-
----
-
 # **Interview Assistant Chatbot**
 
 The **Interview Assistant Chatbot** is a dynamic and interactive chatbot application designed to help users practice interviews in various domains such as Technical, Aptitude, and HR interviews. The backend leverages **Google Gemini AI** for generating intelligent and relevant answers to user questions.
