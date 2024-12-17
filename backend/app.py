@@ -9,7 +9,7 @@ import google.generativeai as genai
 load_dotenv()
 
 # Configure Gemini API
-genai.configure(api_key="AIzaSyCn7P9SoW4LkhAn4aFJlIttzu9WXkdCuzY")
+genai.configure(api_key="Google_API_KEY")
 
 app = Flask(__name__)
 CORS(app)
