@@ -158,6 +158,6 @@ This project is licensed under the MIT License.
 ## **Contact**
 For any queries or collaboration, feel free to reach out:
 - **Email**: gagangowdaks2@gmail.com 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/)  
+- **LinkedIn**: [Your LinkedIn Profile][(https://www.linkedin.com/](https://www.linkedin.com/in/gagan-gowda-k-s-0712b7257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )  
 
 ---
